@@ -103,5 +103,8 @@ which would expose your application to various risks:
 - Updates to the repo may break your application
 - Code refactoring might return 404s to your application
 
+
+2023.02.04 Comment for Capstone 2
+
 Instead, download code and subject it to the version control and regression testing
 you use for your application.
